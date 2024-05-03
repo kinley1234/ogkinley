@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1{
+    color: #007bff;
+}
+.container {
+    margin-top: 50px;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border:none;
+    cursor: pointer
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    color: #007bff;
+}
+#playerName{
+    border: solid 1px #007bff;
+}
+#crushName{
+    border: solid 1px #007bff;
+}
