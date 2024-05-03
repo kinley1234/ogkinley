@@ -1,11 +1,11 @@
 
-h1{
-    
+h2{
+    background-color: rgb(133, 205, 253);
     font-weight: bolder;
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #1a6ec3;
+    background-color: rgb(54, 47, 217);
 }
 
 .container {
@@ -20,10 +20,10 @@ body {
     max-width: 600px;
     width: 80%;
     margin: auto;
-    background-color: #b7c4d2;
+    background-color: rgb(222, 252, 249);
 }
 #number{
-     color: #1a6ec3;
+     color: rgb(60, 132, 171);
      text-align: center;
      font-size: auto;
     
