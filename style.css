@@ -1,39 +1,38 @@
+
+h1{
+    
+    font-weight: bolder;
+}
 body {
     font-family: Arial, sans-serif;
-    text-align: center;
+    background-color: #1a6ec3;
 }
-h1{
-    color: #007bff;
-}
+
 .container {
-    margin-top: 50px;
-}
-
-input {
-    margin: 5px;
-    padding: 5px;
-}
-
-button {
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    border:none;
-    cursor: pointer
-}
-
-button:hover {
-    background-color: #0056b3;
+    margin-top: 100px;
 }
 
 #result {
-    font-size: 1.5rem;
     margin-top: 20px;
-    color: #007bff;
+    font-weight: bold;
 }
-#playerName{
-    border: solid 1px #007bff;
+.card{
+    max-width: 600px;
+    width: 80%;
+    margin: auto;
+    background-color: #b7c4d2;
 }
-#crushName{
-    border: solid 1px #007bff;
+#number{
+     color: #1a6ec3;
+     text-align: center;
+     font-size: auto;
+    
 }
+#calculateBtn{
+    background-color: #107cef;
+    max-width: auto;
+}
+
+
+
+
